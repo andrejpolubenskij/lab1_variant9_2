@@ -73,4 +73,4 @@ g++ -std=c++17 -O2 task3_delivery.cpp -o task3_delivery.exe
 
 ---
 
-Автор: ФИО студента
+Автор: Полубенский Андрей
